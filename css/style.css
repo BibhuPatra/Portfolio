@@ -7276,8 +7276,8 @@ body {
     right: -50px;
     bottom: 0;
     content: '';
-    width: 400px;
-    height: 600px;
+    width: 200px;
+    height: 300px;
     border: 2px solid rgba(251, 255, 1, 0.05);
     background-color: rgb(245, 196, 0);
     z-index: -1;
@@ -7292,8 +7292,8 @@ body {
     left: -100px;
     bottom: 0;
     content: '';
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     border: 2px solid rgba(255, 255, 1, 0.05);
     background-color: rgba(255, 210, 31);
     z-index: -1;
