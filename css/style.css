@@ -7288,14 +7288,14 @@ body {
     transform: rotate(-30deg); }
   body:before {
     position: fixed;
-    top: 500px;
+    top: 600px;
     left: -100px;
     bottom: 0;
     content: '';
     width: 200px;
-    height: 200px;
+    height: 300px;
     border: 2px solid rgba(255, 255, 1, 0.05);
-    background-color: rgba(255, 210, 31);
+    background-color: rgba(245, 196, 0);
     z-index: -1;
     -webkit-transform: rotate(20deg);
     -moz-transform: rotate(20deg);
@@ -7534,8 +7534,8 @@ header {
       position: relative;
        }
       header .colorlib-navbar-brand .colorlib-logo .logo-img {
-        /* width: 450px;
-        height: 400px; */
+        width: 50%;
+        height: auto;
         position: relative; 
         top: 0;
          }
